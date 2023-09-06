@@ -38,6 +38,7 @@ function calcular_prueba(){
         //Mostrar los resultados de las operaciones
         //Mostrar el Producto
         document.getElementById('valor-producto').innerHTML = producto;
+        document.getElementById('valor-cantidad').innerHTML = cantidad;
         document.getElementById('valor-precio').innerHTML = precio;
         document.getElementById('valor-total').innerHTML = vt;
         document.getElementById('valor-producto').innerHTML = producto;
